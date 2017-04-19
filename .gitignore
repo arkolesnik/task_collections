@@ -1,4 +1,8 @@
-# Intellij
 .idea/
 *.iml
 *.iws
+	
+*.class
+*.jar
+*.lst
+*/target/
